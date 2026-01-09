@@ -27,6 +27,9 @@ public class Second {
 		System.out.println(p<=q);
 		System.out.println(p>q);
 		System.out.println(p<q);
+		
+		System.out.println(2>1 && 3<1);
+		System.out.println(6>1 && 2<1);
 
 		
 	}
